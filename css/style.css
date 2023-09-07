@@ -1,0 +1,27 @@
+body {
+    background: #5499C7;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+
+}
+
+h1 {
+    color: #7FB3D5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size:  18px;
+}
+
+img {
+    margin-bottom: 20px;
+}
